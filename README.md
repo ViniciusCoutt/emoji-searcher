@@ -2,7 +2,7 @@
 
 ## Encontre seu emoji aqui 😄
 
-Projeto de estudo. Consumi um conjunto de dados, realizando seu tratamento, criação da lista e pesquisa desses dados a cada input.
+Projeto de estudo. Consumi um conjunto de dados e realizei seu tratamento, criação de lista e pesquisa desses dados a cada input.
 
 ### Tecnologias 
 
