@@ -11,7 +11,7 @@ list.innerHTML = emojiList
 txtSearch.onkeyup = function (e) {
     emojiList = this.value
 
-    let key = new RegExp(emojiList, "g")
+    let key = new RegExp(emojiList, "i")
 
     for (let i in arrayEmoji) {
         if (arrayEmoji[i].title.match(key) || arrayEmoji[i].keywords.match(key))
