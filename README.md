@@ -20,3 +20,5 @@ Feito usando apenas **HTML**, **CSS** e **Javascript puro.**
 
 
 PS: Para roda-lo utilize a extensão Live Server
+
+### Fonte da ideia: https://github.com/ahfarmer 
