@@ -1,19 +1,24 @@
-# Buscador de emojis
+<h1 align="center"> Buscador de emojis </h1>
 
-### Encontre seu emoji aqui 😄
+## Encontre seu emoji aqui 😄
 
-Projeto de estudo. 
+### Projeto de estudo. 
 
-Consumindo um conjunto de dados, realizando seu tratamento, criação da lista e pesquisa desses dados.
+Consumindo um conjunto de dados, realizando seu tratamento, criação da lista e pesquisa desses dados a cada input.
 
-Feito usando **HTML**, **CSS** e **Javascript puro.** 
+### Tecnologias 
 
-Página desktop
+Feito usando apenas **HTML**, **CSS** e **Javascript puro.** 
 
-![Desktop Layout](desktop-layout.gif)
+### Página desktop
 
-Página mobile
+<img src="/image/desktop-layout.gif" alt="Desktop Layout">
 
-![Mobile Layout](mobile-layout.jpeg)
+### Página mobile
+
+<p align="center">
+<img src="/image/mobile-layout.jpeg" alt="Mobile Layout">
+</p>
+
 
 PS: Para roda-lo utilize a extensão Live Server
